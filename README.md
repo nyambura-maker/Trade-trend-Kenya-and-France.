@@ -4,8 +4,8 @@ This project explores the trade relationship between Kenya and France, focusing 
 Dataset
 
 <a href="https://github.com/nyambura-maker/Trade-trend-Kenya-and-France./blob/main/Trade_Map_-_Bilateral_trade_between_Kenya_and_France%20(2).xls">Dataset</a>
+<a href="https://github.com/nyambura-maker/Trade-trend-Kenya-and-France./blob/main/Europe%20Trade%20Briefs%202020%20updated.docx">Dataset</a>
 
-<a href="">Dataset</a>
 #  Objectives
 Analyze trade trends between Kenya and France over time.
 Visualize trade data using an interactive Power BI dashboard.
@@ -43,6 +43,7 @@ Kenya’s Major Exports to France
 Typically consist of tea, coffee, flowers, and raw materials, which have lower value than high-tech manufactured goods from France.
 Limited Industrial Capacity
 Kenya relies on imports for high-value manufactured goods while exporting mainly raw or semi-processed goods.
+The percentage of imports that Frace gets from kenya is so minimal amounting into a 0.1% of all its imports while the percentage of imports that kenya gets from france is 1% of all its imports
 
 # Implications & Recommendations
 * Diversify and Add Value to Exports:
