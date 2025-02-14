@@ -5,7 +5,7 @@ Dataset
 
 <a href="https://github.com/nyambura-maker/Trade-trend-Kenya-and-France./blob/main/Trade_Map_-_Bilateral_trade_between_Kenya_and_France%20(2).xls">Dataset</a>
 
-
+<a href="">Dataset</a>
 #  Objectives
 Analyze trade trends between Kenya and France over time.
 Visualize trade data using an interactive Power BI dashboard.
@@ -45,11 +45,12 @@ Limited Industrial Capacity
 Kenya relies on imports for high-value manufactured goods while exporting mainly raw or semi-processed goods.
 
 # Implications & Recommendations
- Diversify and Add Value to Exports:
-
+* Diversify and Add Value to Exports:
 Kenya should invest in manufacturing and industrialization to increase high-value exports.
+
  Promote Import Substitution:
-Encourage local production of goods that are heavily imported from France.
-Enhance Trade Agreements with France:
+*Encourage local production of goods that are heavily imported from France.
+
+*Enhance Trade Agreements with France:
 Negotiate better trade terms to increase export opportunities and reduce dependence on imports.
 
