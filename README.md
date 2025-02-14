@@ -6,9 +6,11 @@ Dataset
 <a href="">Dataset</a>
 
 # Dashboard
-![Screenshot_13-2-2025_232038_](https://github.com/user-attachments/assets/17ec1edc-4ccd-42ef-a9f4-3893be635ae8)
+
+![Screenshot_14-2-2025_171152_](https://github.com/user-attachments/assets/e26e85df-fa98-4015-ba23-23b89effd4e3)
 
 
+![Screenshot_14-2-2025_183638_](https://github.com/user-attachments/assets/8ecbde3a-43dd-4bf5-aadb-d198f6c5b962)
 
 Key Insights from the Data:
 1. Persistent Trade Deficit for Kenya
