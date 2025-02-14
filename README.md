@@ -43,14 +43,15 @@ Kenya’s Major Exports to France
 Typically consist of tea, coffee, flowers, and raw materials, which have lower value than high-tech manufactured goods from France.
 Limited Industrial Capacity
 Kenya relies on imports for high-value manufactured goods while exporting mainly raw or semi-processed goods.
+
 The percentage of imports that Frace gets from kenya is so minimal amounting into a 0.1% of all its imports while the percentage of imports that kenya gets from france is 1% of all its imports
 
 # Implications & Recommendations
 * Diversify and Add Value to Exports:
 Kenya should invest in manufacturing and industrialization to increase high-value exports.
 
- Promote Import Substitution:
-*Encourage local production of goods that are heavily imported from France.
+ *Promote Import Substitution:
+Encourage local production of goods that are heavily imported from France.
 
 *Enhance Trade Agreements with France:
 Negotiate better trade terms to increase export opportunities and reduce dependence on imports.
