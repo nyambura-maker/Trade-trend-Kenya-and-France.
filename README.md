@@ -1,5 +1,21 @@
 # Trade-trend-Kenya-and-France.
-This project explores the trade relationship between Kenya and France, focusing on trade trends and the balance of trade over multiple years. The analysis highlights Kenya’s exports to France, France’s imports from Kenya, and the resulting trade balance, providing insights into economic interactions between the two nations.
+This project provides a quantitative assessment of the economic diplomacy between Kenya and France. By analyzing longitudinal trade data, this study moves beyond theoretical International Relations to provide an empirical look at trade volumes, commodity trends, and the resulting trade balance.
+
+The goal is to identify patterns in the Kenya-France economic corridor and evaluate the "Health" of this bilateral relationship through data-driven insights.
+
+The Interdisciplinary Objective
+As a specialist in International Relations and Development, I developed this project to bridge the gap between Geopolitical Policy and Data Science.
+
+The IR Question: How do diplomatic ties and trade agreements translate into actual export/import growth?
+
+The Data Question: Can we identify seasonal trends or specific years of "trade shock" using Python-based analysis?
+
+Technical Stack
+Language: Python 3.x
+
+Libraries: * Pandas for data manipulation and cleaning.
+
+Matplotlib / Seaborn for trend visualization.
 
 Dataset
 
