@@ -6,16 +6,12 @@ The goal is to identify patterns in the Kenya-France economic corridor and evalu
 The Interdisciplinary Objective
 As a specialist in International Relations and Development, I developed this project to bridge the gap between Geopolitical Policy and Data Science.
 
-The IR Question: How do diplomatic ties and trade agreements translate into actual export/import growth?
-
-The Data Question: Can we identify seasonal trends or specific years of "trade shock" using Python-based analysis?
 
 Technical Stack
 Language: Python 3.x
 
-Libraries: * Pandas for data manipulation and cleaning.
-
-Matplotlib / Seaborn for trend visualization.
+Libraries:  Pandas for data manipulation and cleaning.
+power BI for visualization.
 
 Dataset
 
@@ -23,6 +19,8 @@ Dataset
 <a href="https://github.com/nyambura-maker/Trade-trend-Kenya-and-France./blob/main/Europe%20Trade%20Briefs%202020%20updated.docx">Dataset</a>
 
 #  Objectives
+The IR Question: How do diplomatic ties and trade agreements translate into actual export/import growth?
+The Data Question: Can we identify seasonal trends or specific years of "trade shock" using Python-based analysis?
 Analyze trade trends between Kenya and France over time.
 Visualize trade data using an interactive Power BI dashboard.
 Examine the balance of trade, identifying trade deficits or surpluses.
