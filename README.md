@@ -7,10 +7,12 @@ The Interdisciplinary Objective
 As a specialist in International Relations and Development, I developed this project to bridge the gap between Geopolitical Policy and Data Science.
 
 
-Technical Stack
+**Technical Stack**
+
 Language: Python 3.x
 
 Libraries:  Pandas for data manipulation and cleaning.
+
 power BI for visualization.
 
 Dataset
